@@ -1,0 +1,33 @@
+export const temaClaro = {
+    fundo: "#FFF8E8",
+    superficie: "#FFFFFF",
+    superficieSecundaria: "#FFE5B8",
+    texto: "#29213D",
+    textoSuave: "#716780",
+    primaria: "#6B3FD3",
+    primariaEscura: "#3A216F",
+    destaque: "#FFB52E",
+    borda: "#E9D6F7",
+    erro: "#D63C56",
+    erroFundo: "#FFE6EB",
+    sucesso: "#168768",
+    sombra: "#4C2780",
+    branco: "#FFFFFF",
+};
+
+export const temaEscuro = {
+    fundo: "#171126",
+    superficie: "#241A38",
+    superficieSecundaria: "#34244E",
+    texto: "#FFF9EB",
+    textoSuave: "#C8BBDC",
+    primaria: "#B796FF",
+    primariaEscura: "#321D62",
+    destaque: "#FFC34F",
+    borda: "#493562",
+    erro: "#FFB4AB",
+    erroFundo: "#3D211F",
+    sucesso: "#74E2BE",
+    sombra: "#000000",
+    branco: "#FFFFFF",
+};
